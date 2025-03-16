@@ -87,4 +87,4 @@ def main():
         print()  # New line after printing all pairs of a case
 
 # Execute the main function
-main()
+main()  
